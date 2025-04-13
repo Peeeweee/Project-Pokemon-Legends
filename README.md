@@ -47,5 +47,6 @@ Follow the on-screen prompts to select your Pokémon, make strategic moves, and 
 
 
 ## Documentation
-![image](https://github.com/user-attachments/assets/278ad983-31d4-46b8-a349-780eb96a79de)
-![image](https://github.com/user-attachments/assets/0b1bac9e-f713-4ee6-8cc5-a30e819f93b5)
+![image](https://github.com/user-attachments/assets/ed077dfe-92f9-4386-9f0d-33f9df269f4a)
+![image](https://github.com/user-attachments/assets/a37c630b-090e-44d9-9b80-80f1c712881f)
+
