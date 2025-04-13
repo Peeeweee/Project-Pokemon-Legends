@@ -25,7 +25,7 @@ Welcome to **Project: Pokémon Legends** — a mini Pokémon tournament game cra
 
 1. **Download or Clone the Repository**
    ```bash
-   git clone https://github.com/Peeeweee/Pokemon-Legends.git
+   git clone https://github.com/Peeeweee/Project-Pokemon-Legends.git
    cd Pokemon-Legends
 
 2. **Open the Project in your preferred IDE**
