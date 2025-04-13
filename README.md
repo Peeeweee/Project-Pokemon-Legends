@@ -3,6 +3,8 @@
 
 Welcome to **Project: Pokémon Legends** — a mini Pokémon tournament game crafted using the Java programming language. Inspired by the classic Pokémon battle mechanics, this project offers a simplified yet fun take on turn-based Pokémon battles. Whether you're a fan of the franchise or just exploring Java game development, this project is for you!
 
+**You will be able to challenge some of the strongest pokemon trainers and masters in the Pokemon Series
+
 ---
 
 ## 🚀 Features
