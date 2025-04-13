@@ -20,7 +20,7 @@ public class FinalProject_PP_Delgado {
     //Background IntroMusic
     public static void inputPoke() {
         try {
-            File file = new File("../buttons.wav");
+            File file = new File("../audios/buttons.wav");
             AudioInputStream audioStream = AudioSystem.getAudioInputStream(file);
             inputPoke = AudioSystem.getClip(); // Use the class-level Clip object
             inputPoke.open(audioStream);
@@ -34,7 +34,7 @@ public class FinalProject_PP_Delgado {
     //Background Music 1
     public static void introPokemon() {
         try {
-            File file = new File("../intro.wav");
+            File file = new File(".../audios/intro.wav");
             AudioInputStream audioStream = AudioSystem.getAudioInputStream(file);
             introPokemon = AudioSystem.getClip(); // Use the class-level Clip object
             introPokemon.open(audioStream);
@@ -55,7 +55,7 @@ public class FinalProject_PP_Delgado {
     //Background Music 2
     public static void introPokemon2() {
         try {
-            File file = new File("../hero.wav");
+            File file = new File("../audios/hero.wav");
             AudioInputStream audioStream = AudioSystem.getAudioInputStream(file);
             introPokemon2 = AudioSystem.getClip(); // Use the class-level Clip object
             introPokemon2.open(audioStream);
@@ -76,7 +76,7 @@ public class FinalProject_PP_Delgado {
     //Background Music 3
     public static void introPokemon3() {
         try {
-            File file = new File("../league.wav");
+            File file = new File(".../audios/league.wav");
             AudioInputStream audioStream = AudioSystem.getAudioInputStream(file);
             introPokemon3 = AudioSystem.getClip(); // Use the class-level Clip object
             introPokemon3.open(audioStream);
@@ -97,7 +97,7 @@ public class FinalProject_PP_Delgado {
     //Background Music 4
     public static void introPokemon4() {
         try {
-            File file = new File("../battle.wav");
+            File file = new File("../audios/battle.wav");
             AudioInputStream audioStream = AudioSystem.getAudioInputStream(file);
             introPokemon4 = AudioSystem.getClip(); // Use the class-level Clip object
             introPokemon4.open(audioStream);
@@ -118,7 +118,7 @@ public class FinalProject_PP_Delgado {
     //Background Music 5
     public static void introPokemon5() {
         try {
-            File file = new File("../arceus.wav");
+            File file = new File("../audios/arceus.wav");
             AudioInputStream audioStream = AudioSystem.getAudioInputStream(file);
             introPokemon5 = AudioSystem.getClip(); // Use the class-level Clip object
             introPokemon5.open(audioStream);
