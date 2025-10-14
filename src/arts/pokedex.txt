@@ -1,0 +1,34 @@
+  POKEDEX: 
+  =================================================================================================================================================================================
+  || Garchomp[Dragon]      || Blastoise[Water]     || Scizor[Bug]             || Luxray[Electric]     || Torterra[Grass]      || Snorlax[Normal]      || Infernape[Fire]         ||
+  || Tyranitar[Dragon]     || Ninetales[Fire]      || Pikachu[Electric]       || Charizard[Fire]      || Hawlucha[Fighting]   || Sceptile[Grass]      || Empoleon[Water]         ||
+  || Megasaur[Grass]       || Blaziken[Fire]       || Greninja[Water]         || Haunter[Ghost]       || Salamence[Dragon]    || Raichuu[Electric]    || Caterpie[Bug]           ||
+  || Croconaw[Water]       || Flygon[Dragon]       || Ampharos[Electric]      || Typhlosion[Fire]     || Absol[Dark]          || Dragonite[Dragon]    || Eevee[Normal]           ||
+  || Gardevoir[Psychic]    || Lucario[Fighting]    || Umbreon[Dark]           || Arcanine[Fire]       || Gengar[Ghost]        || Metagross[Steel]     || Machamp[Fighting]       ||
+  || Gyarados[Water]       || Ditto[Normal]        || Aegislash[Steel]        || Haxorus[Dragon]      || Slaking[Normal]      || Hydreigon[Dragon]    || Blissey[Fairy]          ||
+  || Ferrothorn[Grass]     || Shedinja[Bug]        || Togekiss[Fairy]         || Goodra[Dragon]       || Mawille[Steel]       || Torkoal[Fire]        || Kangaskhan[Normal]      ||
+  || Kingdra[Water]        || Breloom[Grass]       || Skarmory[Flying]        || Rotom[Electric]      || Tangrowth[Grass]     || Magnezone[Electric]  || Mamoswine[Ice]          ||
+  || Volcarona[Fire]       || Roserade[Grass]      || Chandelure[Fire]        || Swampert[Water]      || Samurott[Water]      || Feraligatr[Water]    || Emboar[Fire]            ||
+  || Delphox[Fire]         || Serperior[Grass]     || Chesnaught[Grass]       || Incineroar[Fire]     || Meganium[Grass]      || Jolteon[Electric]    || Electrivire[Electric]   ||
+  || Eelektros[Electric]   || Manetric[Electric]   || Galvantula[Electric]    || Zebstrika[ELectric]  || Emolga[Electric]     || Heliolisk[Electric]  || Vaporeon[Ice]           ||
+  || Lapras[Water]         || Milotic[Water]       || Starmie[Water]          || Azumarill[Water]     || Wailord[Water]       || Sharpedo[Water]      || Ludicolo[Water]         ||
+  || Crawdaunt[Water]      || Leafeon[Grass]       || Victreebel[Grass]       || Tropius[Grass]       || Gogoat[Grass]        || Houndoom[Dark]       || Magmortar[Fire]         ||
+  || Flareon[Fire]         || Rapidash[Fire]       || Victini[Fire]           || Talonflame[Fire]     || Excadrill[Ground]    || Flygon[Dragon]       || Steelix[Steel]          ||
+  || Onix[Rock]            || Rhyperior[Ground]    || Sandslash[Ground]       || Seismitoad[Water]    || Dugtrio[Ground]      || Krookodile[Ground]   || Tentacruel[Water]       ||
+  || Gastrodon[Water]      || Noivern[Flying]      || Altaria[Dragon]         || Staraptor[Flying]    || Pelipper[Flying]     || Gliscor[Ground]      || Weavile[Dark]           ||
+  || Zoroark[Dark]         || Mightyena[Dark]      || Golurk[Ground]          || Honchkrow[Dark]      || Glaceon[Ice]         || Piloswine[Ice]       || Abomasnow[Ice]          ||
+  || Froslass[Ice]         || Glalie[Ice]          || Glaceon[Ice]            || Beartic[Ice]         || Jinx[Ice]            || Vanilluxe[Ice]       || Snowver[Ice]            ||
+  || Alakazam[Psychic]     || Mr.Mime[Psychic]     || Espeon[Psychic]         || Hypno[Psychic]       || Drowzee[Psychic]     || Gallade[Fighting]    || Slowpoke[Water]         ||
+  || Wobbuffet[Psychic]    || Ekans[Poison]        || Arbok[Poison]           || Nidorina[Poison]     || Nidorino[Poison]     || Grimer[Poison]       || Muk[Poison]             ||
+  || Weezing[Poison]       || Gulpin[Poison]       || Seviper[Poison]         || Meowth[Normal]       || Persian[Normal]      || Garbodor[Poison]     || Golbat[Poison]          ||
+  || Slowbro[Water]        || Crobat[Poison]       || Stunktank[Poison]       || Drapion[Poison]      || Toxicroak[Poison]    || Hitmonlee[Fighting]  || Hitmonchan[Fighting]    ||
+  || Hariyama[Fighting]    || Primeape[Fighting]   || Poliwrath[Water]        || Medicham[Fighting]   || Donphan[Ground]      || Geodude[Rock]        || Hippowdon[Ground]       ||
+  || Quagsire[Water]       || Marowak[Ground]      || Graveler[Rock]          || Pinsir[Grass]        || Karrablast[Grass]    || Accelgor[Steel]      || Scatterbug[Bug]         ||
+  || Butterfree[Bug]       || Weedle[Bug]          || Kakuna[Bug]             || Beedrill[Bug]        || Parasect[Grass]      || Scyther[Grass]       || Ariados[Bug]            ||
+  || Heracross[Bug]        || Surskit[Water]       || Combee[Bug]             || Escavalier[Steel]    || Genesect[Steel]      || Misdreavus[Ghost]    || Duskull[Ghost]          ||
+  || Drifloon[Ghost]       || Dusclops[Ghost]      || Duskull[Ghost]          || Shuppet[Ghost]       || Sableye[Ghost]       || Driflim[Ghost]       || Aerodactyl[Flying]      ||
+  || Dusknoir[Ghost]       || Yamask[Ghost]        || Zoroa[Dark]             || Pidgeotto[Flying]    || Gorgeist[Ghost]      || Florges[Grass]       || Mr.Mime[Psychic]        ||
+  || Clefairy[Fairy]       || Dedenne[Electric]    || Omar[Water]             || Gigalith[Rock]       || Pupitar[Bug]         || Armaldo[Rock]        || Porygon[Normal]         ||
+  || Aipom[Normal]         || Ursaring[Normal]     || Miltank[Normal]         || Vigoroth[Normal]     || Lopunny[Normal]      || Stoutland[Normal]    || Bunnelby[Normal]        ||
+  || Aggron[Steel]         || Klinklang[Steel]     || Bronzong[Steel]         || Bastiodon[Normal]    || Spiritomb[Ghost]     || Drapion[Poison]      || Staraptor[Flying]       ||
+  =================================================================================================================================================================================
